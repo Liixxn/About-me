@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Lian Salmerón López</h1>
+<h1 align="center">Hello ⭐, I'm Lian Salmerón López</h1>
 
-- 🔭 I’m currently at **Universidad Europea** as student
+- 🔭 I’m currently at **Universidad Europea** as a student
 - 📝 Learning **Python, HTML5, PHP, MySQL, C++ ...**
 - 📫 How to reach me **lian.salmeronlopez@gmail.com**
 
