@@ -2,10 +2,6 @@
 
 - 🔭 I’m currently at **Universidad Europea** as student
 
-- 👨‍💻 Some of my fun projects are available at [https://Liixxn.me/]
-
-- 📝 I write tech blogs on [https://medium.com/@Liixxn](https://medium.com/@Liixxn)
-
 - 📫 How to reach me **lian.salmeronlopez@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
