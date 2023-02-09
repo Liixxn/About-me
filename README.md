@@ -11,10 +11,10 @@
 
 <hr>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">More sites to connect:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/lian-salmerón-lópez/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Liixxn" height="30" width="40" /></a>
-  <a href="https://github.com/Liixxn" target="blank">Github</a>
+  <a href="https://stackoverflow.com/users/21157724/lian-salmerón-lópez" target="blank">StackOverFlow</a>
 </p>
 
 <h3 align="left">Languages and Tools used:</h3>
