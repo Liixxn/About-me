@@ -1,8 +1,15 @@
-<h1 align="center">Hello ⭐, I'm Lian Salmerón López</h1>
+<h1 align="center">✨Hello everyone, I'm Lian Salmerón López✨</h1>
 
-- 🔭 I’m currently at **Universidad Europea** as a student
-- 📝 Learning **Python, HTML5, PHP, MySQL, C++ ...**
-- 📫 How to reach me **lian.salmeronlopez@gmail.com**
+- 👩‍💻 I’m studying Informatic Engineering at **Universidad Europea**, currently 3rd year😄
+- 📝 I´ve learned a lot, such as:**Python, HTML5, PHP, MySQL, C++ and more🎈**
+- 📣 Speaking:<ul>
+        <li> Spanish -- Advanced</li>
+        <li> English -- Intermediate</li>
+        <li> Chinese -- Medium</li>
+    </ul>
+- ✈ I've visited England, Ireland, France and China🌍
+
+<hr>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
