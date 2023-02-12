@@ -15,7 +15,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/lian-salmerón-lópez/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Linkedin" height="30" width="40"></a>
   <a href="https://stackoverflow.com/users/21157724/lian-salmerón-lópez" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Stack_Overflow_icon.svg" alt="StackOverflow" height="30" width:"40"></a>
-  <a href="https://github.com/Liixxn" target="blank"><img aling="center" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="Github" height="30" width:"40"></a>
+  <a href="https://github.com/Liixxn" target="blank"><img aling="center" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="Github" height="40" width:"50"></a>
 </p>
 
 <h3 align="left">Languages and Tools used:</h3>
