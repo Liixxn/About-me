@@ -21,6 +21,7 @@
 <h3 align="left">Languages and Tools used:</h3>
 <p align="left"> 
         <a href="https://www.oracle.com/es/java/" target="blank"><img src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png" alt="Java" height="40" width:"40"></a>
+<a href="https://www.microchip.com/en-us/tools-resources/develop/microchip-studio" target="_blank"><img src="https://www.it.unlv.edu/sites/default/files/styles/250_width/public/sites/default/files/assets/software/logos/atmel_studio.png?itok=bO_6oTM6" alt="atmel width="40" height="40"/></a>
 <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 <a href="https://www.microsoft.com/es-es/download/details.aspx?id=48145" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="c++" width="40" height="40"/> </a>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
